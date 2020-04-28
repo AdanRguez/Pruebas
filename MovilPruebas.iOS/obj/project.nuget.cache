@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nwIIqQcxvfaw9gSTpEh2h1/BL02uMORjjjt0O7cBW04pnlP60DqfRn5AkSTCSbgbcr1TQq+i0hPM1HcGkfoj7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DesarrolloAdan\\source\\repos\\MovilPruebas\\MovilPruebas.iOS\\MovilPruebas.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DesarrolloAdan\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}
