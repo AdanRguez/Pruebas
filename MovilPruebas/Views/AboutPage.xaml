@@ -51,7 +51,7 @@
                             <FormattedString.Spans>
                                 <Span Text="This acambios en la app" />
                                 <Span Text=" " />
-                                <Span Text="Xamarin Platform" FontAttributes="Bold" />
+                                <Span Text="Xamarin cambios hechos en la rama2" FontAttributes="Bold" />
                                 <Span Text="." />
                             </FormattedString.Spans>
                         </FormattedString>
